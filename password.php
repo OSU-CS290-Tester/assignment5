@@ -1,3 +1,3 @@
 <?php
-$pass="GxMuVbwDqQKe5OMo";
+$pass="REDACTED";
 ?>
